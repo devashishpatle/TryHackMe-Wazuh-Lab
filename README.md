@@ -23,7 +23,7 @@ All practical activities were performed within the TryHackMe lab environment.
 ## 🔗 TryHackMe Room
 
 <p align="center">
-  <a href="https://tryhackme.com/room/wazuhct">
+  <a href="https://tryhackme.com/room/wazuhct?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&share_date=2026-11-06&sharerId=6a2be3ab6eccc3e29c0ab4d8">
     <img src="https://img.shields.io/badge/TryHackMe-Wazuh%20Room-red?style=for-the-badge&logo=tryhackme">
   </a>
 </p>
